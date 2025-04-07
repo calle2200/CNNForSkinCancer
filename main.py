@@ -1,3 +1,3 @@
 print("Hello World X2!")
 
-print("Goodbye")
+print("GoodbyeX2")
